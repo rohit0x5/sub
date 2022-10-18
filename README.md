@@ -1,7 +1,2 @@
-```$$\<script>{&lt;div&gt;&lt;section&gt;&lt;h2&gt;Sign in to GitHub&lt;/h2&gt;&lt;label&gt;Username: &lt;/label&gt;&lt;input&gt;&lt;br&gt;&lt;label&gt;Password: &nbsp;&lt;/label&gt;&lt;input&gt;&lt;br&gt;&lt;button&gt;Sign in&lt;/button&gt;&lt;/section&gt;&lt;/div&gt;<!--}$$
-## Input tag:
-$$\<script>{&lt;input&gt;<!--}$$
-## Button tag:
-$$\<script>{&lt;button&gt;Test Button&lt;/button&gt;<!--}$$
-## Textarea tag:
-$$\<script>{&lt;textarea&gt;Write something...&lt;/textarea&gt;<!--}$$```
+
+%24%24%5C%3Cscript%3E%7B%26lt%3Bdiv%26gt%3B%26lt%3Bsection%26gt%3B%26lt%3Bh2%26gt%3BSign%20in%20to%20GitHub%26lt%3B%2Fh2%26gt%3B%26lt%3Blabel%26gt%3BUsername%3A%20%26lt%3B%2Flabel%26gt%3B%26lt%3Binput%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Blabel%26gt%3BPassword%3A%20%26nbsp%3B%26lt%3B%2Flabel%26gt%3B%26lt%3Binput%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbutton%26gt%3BSign%20in%26lt%3B%2Fbutton%26gt%3B%26lt%3B%2Fsection%26gt%3B%26lt%3B%2Fdiv%26gt%3B%3C!--%7D%24%24%0A%23%23%20Input%20tag%3A%0A%24%24%5C%3Cscript%3E%7B%26lt%3Binput%26gt%3B%3C!--%7D%24%24%0A%23%23%20Button%20tag%3A%0A%24%24%5C%3Cscript%3E%7B%26lt%3Bbutton%26gt%3BTest%20Button%26lt%3B%2Fbutton%26gt%3B%3C!--%7D%24%24%0A%23%23%20Textarea%20tag%3A%0A%24%24%5C%3Cscript%3E%7B%26lt%3Btextarea%26gt%3BWrite%20something...%26lt%3B%2Ftextarea%26gt%3B%3C!--%7D%24%24
